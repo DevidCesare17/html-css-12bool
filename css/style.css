@@ -20,6 +20,11 @@
 }
 
 .nested{
+  height: 95%;
   border: 1px solid #ffffff;
   background-color: #F07F80;
+}
+
+.last-row{
+  padding: 5px;
 }
