@@ -24,7 +24,7 @@
   padding: 5px;
 }
 
-[class*="col-"] .nested{
+[class*="col-"] > .nested{
   height: 100%;
   border: 1px solid #ffffff;
   background-color: #F07F80;
